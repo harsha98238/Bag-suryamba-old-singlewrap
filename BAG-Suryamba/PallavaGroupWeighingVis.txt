@@ -1,0 +1,2 @@
+116817
+c:\twincat\plc\pallavagroupweighingvis.txt
